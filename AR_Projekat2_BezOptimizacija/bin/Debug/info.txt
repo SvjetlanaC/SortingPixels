@@ -1,0 +1,27 @@
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s975ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s969ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s710ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s678ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s719ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s769ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s887ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s627ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s931ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s980msVrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s298ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s326ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 4s604ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 4s437ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s355ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s108ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s163ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 4s216ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s124ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 1s232ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s852ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s599ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s221ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s699ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s339ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s187ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s198ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s877ms 

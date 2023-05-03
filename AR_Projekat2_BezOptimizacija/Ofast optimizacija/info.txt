@@ -1,0 +1,10 @@
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s171ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s172ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s170ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s177ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s173ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s174ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s184ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s172ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s172ms 
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 0s174ms 

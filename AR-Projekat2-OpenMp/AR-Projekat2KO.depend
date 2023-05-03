@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1663530690 source:c:\users\account\desktop\ar-projekat2ko\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<omp.h>
+

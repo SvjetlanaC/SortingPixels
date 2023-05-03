@@ -1,0 +1,10 @@
+Vrijeme izvrsavanja sa kombinovanim optimizacijama: 0s173ms 
+Vrijeme izvrsavanja sa kombinovanim optimizacijama: 0s175ms 
+Vrijeme izvrsavanja sa kombinovanim optimizacijama: 0s175ms 
+Vrijeme izvrsavanja sa kombinovanim optimizacijama: 0s177ms 
+Vrijeme izvrsavanja sa kombinovanim optimizacijama: 0s177ms 
+Vrijeme izvrsavanja sa kombinovanim optimizacijama: 0s179ms 
+Vrijeme izvrsavanja sa kombinovanim optimizacijama: 0s180ms 
+Vrijeme izvrsavanja sa kombinovanim optimizacijama: 0s178ms 
+Vrijeme izvrsavanja sa kombinovanim optimizacijama: 0s175ms 
+Vrijeme izvrsavanja sa kombinovanim optimizacijama: 0s176ms 

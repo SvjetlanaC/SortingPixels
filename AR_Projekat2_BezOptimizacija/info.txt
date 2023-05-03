@@ -1,0 +1,1 @@
+Vrijeme izvrsavanja programa sortiranja piksela bez optimizacije: 4194s432ms 

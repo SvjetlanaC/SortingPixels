@@ -1,0 +1,10 @@
+Vrijeme izvrsavanja sa OpenMP optimizacijom: 0s152ms 
+Vrijeme izvrsavanja sa OpenMP optimizacijom: 0s153ms 
+Vrijeme izvrsavanja sa OpenMP optimizacijom: 0s166ms 
+Vrijeme izvrsavanja sa OpenMP optimizacijom: 0s155ms 
+Vrijeme izvrsavanja sa OpenMP optimizacijom: 0s170ms 
+Vrijeme izvrsavanja sa OpenMP optimizacijom: 0s155ms 
+Vrijeme izvrsavanja sa OpenMP optimizacijom: 0s167ms 
+Vrijeme izvrsavanja sa OpenMP optimizacijom: 0s153ms 
+Vrijeme izvrsavanja sa OpenMP optimizacijom: 0s156ms 
+Vrijeme izvrsavanja sa OpenMP optimizacijom: 0s154ms 
